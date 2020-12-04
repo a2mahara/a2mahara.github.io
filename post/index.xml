@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts | PKMS Lab | UBC</title>
+    <link>https://a2mahara.github.io/post/</link>
+      <atom:link href="https://a2mahara.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <description>Posts</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 04 Dec 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://a2mahara.github.io/images/icon_hu254a632e13bbcb0db1c9ac000befa917_11344_512x512_fill_lanczos_center_2.png</url>
+      <title>Posts</title>
+      <link>https://a2mahara.github.io/post/</link>
+    </image>
+    
+    <item>
+      <title>US FDA revokes emergency use authorization of hydroxychloroquine for treatment of COVID-19</title>
+      <link>https://a2mahara.github.io/post/dec4_2020/</link>
+      <pubDate>Fri, 04 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://a2mahara.github.io/post/dec4_2020/</guid>
+      <description>&lt;div style=&#34;text-align: justify&#34;&gt;The result of our study published in &lt;a href=&#34;https://jamanetwork.com/journals/jamapediatrics/fullarticle/2767020&#34;&gt;&lt;i&gt;JAMA Pediatrics&lt;/i&gt;&lt;/a&gt; was used to support the US FDA&#39;s decision to revoke emergency use authorization of hydroxychloroquine for treatment of COVID-19. Our model-based analysis demonstrated that hydroxychloroquine concentrations in lung tissue may be too low to elicit an antiviral effect - raising concerns about use of hydroxychloroquine for treatment of COVID-19. This work epitomizes the impact that pharmacokinetic modeling and simulation can have on clinical care. The FDA communication can be found &lt;a href=&#34;https://www.fda.gov/media/138945/download&#34;&gt;here&lt;/a&gt;.&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>New, New, New</title>
+      <link>https://a2mahara.github.io/post/dec3_2020/</link>
+      <pubDate>Thu, 03 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://a2mahara.github.io/post/dec3_2020/</guid>
+      <description>&lt;div style=&#34;text-align: justify&#34;&gt;Lots of new beginnings this year. Relocated to a new city - the strikingly beautiful Vancouver, British Columbia. Appointed as a new Assistant Professor at The University of British Columbia&#39;s Faculty of Pharmaceutical Sciences. Launched a new laboratory website. And now, I am looking to recruit inaugural members to the PKMS laboratory. 
+&lt;br/&gt;
+&lt;br/&gt;
+&lt;p&gt;If you are creative, enjoy biology, pharmacology and math, and are enthusiastic about conducting research that can impact clinical care, then consider submitting an application. As a lab member in the newly formed PKMS lab, you will play a critical role in shaping this laboratory’s research and culture. Click &lt;a href=&#34;../../join/&#34;&gt;here&lt;/a&gt; to find more information on currently available positions.&lt;/div&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

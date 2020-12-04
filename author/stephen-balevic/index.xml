@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Stephen Balevic | PKMS Lab | UBC</title>
+    <link>https://a2mahara.github.io/author/stephen-balevic/</link>
+      <atom:link href="https://a2mahara.github.io/author/stephen-balevic/index.xml" rel="self" type="application/rss+xml" />
+    <description>Stephen Balevic</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 04 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://a2mahara.github.io/images/icon_hu254a632e13bbcb0db1c9ac000befa917_11344_512x512_fill_lanczos_center_2.png</url>
+      <title>Stephen Balevic</title>
+      <link>https://a2mahara.github.io/author/stephen-balevic/</link>
+    </image>
+    
+    <item>
+      <title>Simulated Assessment of Pharmacokinetically Guided Dosing for Investigational Treatments of Pediatric Patients With Coronavirus Disease 2019</title>
+      <link>https://a2mahara.github.io/publication/hcq_jama/</link>
+      <pubDate>Thu, 04 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>https://a2mahara.github.io/publication/hcq_jama/</guid>
+      <description>&lt;p&gt;Our model-based analysis, published in &lt;em&gt;JAMA Pediatrics&lt;/em&gt;, sought to identify pediatric dosages for two expirimental therapies (hydroxychloroquine and remdesivir) for treatment of COVID-19. A combination of PBPK modeling and allometry was used to define pediatric dosages specific to different development stages. Interestingly, our PBPK model analysis indicated that hydroxychloroquine lung concentrations would fall well below those needed to illicit an antiviral effect, raising concerns of its effectiveness for COVID-19 treatment.&lt;/p&gt;
+&lt;br/&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Maharaj, A. R., Wu, H., Hornik, C. P., Balevic, S. J., Hornik, C. D., Smith, P. B., Gonzalez, D., Zimmerman, K. O., Benjamin, D. K., Jr, &amp;amp; Cohen-Wolkowiez, M. (2020). Simulated Assessment of Pharmacokinetically Guided Dosing for Investigational Treatments of Pediatric Patients With Coronavirus Disease 2019. &lt;em&gt;JAMA Pediatrics&lt;/em&gt;, 174(10), e202422. &lt;a href=&#34;https://doi.org/10.1001/jamapediatrics.2020.2422&#34;&gt;https://doi.org/10.1001/jamapediatrics.2020.2422&lt;/a&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
