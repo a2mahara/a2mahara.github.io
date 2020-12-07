@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>PKMS Lab | UBC</title>
-    <link>https://a2mahara.github.io/</link>
-      <atom:link href="https://a2mahara.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://pkms.ca/</link>
+      <atom:link href="https://pkms.ca/index.xml" rel="self" type="application/rss+xml" />
     <description>PKMS Lab | UBC</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://a2mahara.github.io/images/icon_hu254a632e13bbcb0db1c9ac000befa917_11344_512x512_fill_lanczos_center_2.png</url>
+      <url>https://pkms.ca/images/icon_hu254a632e13bbcb0db1c9ac000befa917_11344_512x512_fill_lanczos_center_2.png</url>
       <title>PKMS Lab | UBC</title>
-      <link>https://a2mahara.github.io/</link>
+      <link>https://pkms.ca/</link>
     </image>
     
     <item>
       <title>Example Talk</title>
-      <link>https://a2mahara.github.io/talk/example/</link>
+      <link>https://pkms.ca/talk/example/</link>
       <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
-      <guid>https://a2mahara.github.io/talk/example/</guid>
+      <guid>https://pkms.ca/talk/example/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
@@ -34,18 +34,18 @@
     
     <item>
       <title>US FDA revokes emergency use authorization of hydroxychloroquine for treatment of COVID-19</title>
-      <link>https://a2mahara.github.io/post/dec4_2020/</link>
+      <link>https://pkms.ca/post/dec4_2020/</link>
       <pubDate>Fri, 04 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>https://a2mahara.github.io/post/dec4_2020/</guid>
+      <guid>https://pkms.ca/post/dec4_2020/</guid>
       <description>&lt;p&gt;The results of our study, published in &lt;a href=&#34;https://jamanetwork.com/journals/jamapediatrics/fullarticle/2767020&#34;&gt;&lt;i&gt;JAMA Pediatrics&lt;/i&gt;&lt;/a&gt;, was used to support the US FDA&amp;rsquo;s decision to revoke emergency use authorization of hydroxychloroquine for treatment of COVID-19. Our model-based analysis demonstrated that hydroxychloroquine concentrations in lung tissue may be too low to elicit an antiviral effect - raising concerns about use of hydroxychloroquine for treatment of COVID-19. This work epitomizes the impact that pharmacokinetic modeling and simulation can have on clinical care. The FDA communication can be found &lt;a href=&#34;https://www.fda.gov/media/138945/download&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>New, New, New</title>
-      <link>https://a2mahara.github.io/post/dec3_2020/</link>
+      <link>https://pkms.ca/post/dec3_2020/</link>
       <pubDate>Thu, 03 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>https://a2mahara.github.io/post/dec3_2020/</guid>
+      <guid>https://pkms.ca/post/dec3_2020/</guid>
       <description>&lt;p&gt;Lots of new beginnings this year: relocated to a new city - the strikingly beautiful Vancouver, British Columbia; appointed as a new Assistant Professor at The University of British Columbia&amp;rsquo;s Faculty of Pharmaceutical Sciences; launched a new laboratory website; and now, I am looking to recruit inaugural members to the PKMS laboratory.&lt;/p&gt;
 &lt;p&gt;If you are creative, enjoy biology, pharmacology and math, and are enthusiastic about conducting research that can impact clinical care, then consider submitting an application. As a member of the newly formed PKMS lab, you will play a critical role in shaping this laboratory’s research and culture. Click &lt;a href=&#34;../../join/&#34;&gt;here&lt;/a&gt; to find more information on currently available positions.&lt;/p&gt;
 </description>
@@ -53,9 +53,9 @@
     
     <item>
       <title>Deep Cove 2020</title>
-      <link>https://a2mahara.github.io/events/deepcove2020/</link>
+      <link>https://pkms.ca/events/deepcove2020/</link>
       <pubDate>Sat, 27 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>https://a2mahara.github.io/events/deepcove2020/</guid>
+      <guid>https://pkms.ca/events/deepcove2020/</guid>
       <description>&lt;p&gt;
 
 
@@ -82,10 +82,10 @@
 &lt;figure &gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;https://a2mahara.github.io/events/deepcove2020/pic1_hu962360b69c403ed26ef1b080e0c30988_134454_2000x2000_fit_q90_lanczos.jpg&#34; &gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://pkms.ca/events/deepcove2020/pic1_hu962360b69c403ed26ef1b080e0c30988_134454_2000x2000_fit_q90_lanczos.jpg&#34; &gt;
 
 
-  &lt;img data-src=&#34;https://a2mahara.github.io/events/deepcove2020/pic1_hu962360b69c403ed26ef1b080e0c30988_134454_2000x2000_fit_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;1024&#34; height=&#34;768&#34;&gt;
+  &lt;img data-src=&#34;https://pkms.ca/events/deepcove2020/pic1_hu962360b69c403ed26ef1b080e0c30988_134454_2000x2000_fit_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;1024&#34; height=&#34;768&#34;&gt;
 &lt;/a&gt;
 
 
@@ -118,10 +118,10 @@
 &lt;figure &gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;https://a2mahara.github.io/events/deepcove2020/pic2_hu4ef3c549b358207c361899c939c9c7d9_117690_2000x2000_fit_q90_lanczos.jpg&#34; &gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://pkms.ca/events/deepcove2020/pic2_hu4ef3c549b358207c361899c939c9c7d9_117690_2000x2000_fit_q90_lanczos.jpg&#34; &gt;
 
 
-  &lt;img data-src=&#34;https://a2mahara.github.io/events/deepcove2020/pic2_hu4ef3c549b358207c361899c939c9c7d9_117690_2000x2000_fit_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;1024&#34; height=&#34;768&#34;&gt;
+  &lt;img data-src=&#34;https://pkms.ca/events/deepcove2020/pic2_hu4ef3c549b358207c361899c939c9c7d9_117690_2000x2000_fit_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;1024&#34; height=&#34;768&#34;&gt;
 &lt;/a&gt;
 
 
@@ -154,10 +154,10 @@
 &lt;figure &gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;https://a2mahara.github.io/events/deepcove2020/pic3_huda9b18e3fe78da068e5311e9b0c1250f_107306_2000x2000_fit_q90_lanczos.jpg&#34; &gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://pkms.ca/events/deepcove2020/pic3_huda9b18e3fe78da068e5311e9b0c1250f_107306_2000x2000_fit_q90_lanczos.jpg&#34; &gt;
 
 
-  &lt;img data-src=&#34;https://a2mahara.github.io/events/deepcove2020/pic3_huda9b18e3fe78da068e5311e9b0c1250f_107306_2000x2000_fit_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;1024&#34; height=&#34;768&#34;&gt;
+  &lt;img data-src=&#34;https://pkms.ca/events/deepcove2020/pic3_huda9b18e3fe78da068e5311e9b0c1250f_107306_2000x2000_fit_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;1024&#34; height=&#34;768&#34;&gt;
 &lt;/a&gt;
 
 
@@ -169,9 +169,9 @@
     
     <item>
       <title>Simulated Assessment of Pharmacokinetically Guided Dosing for Investigational Treatments of Pediatric Patients With Coronavirus Disease 2019</title>
-      <link>https://a2mahara.github.io/publication/hcq_jama/</link>
+      <link>https://pkms.ca/publication/hcq_jama/</link>
       <pubDate>Thu, 04 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>https://a2mahara.github.io/publication/hcq_jama/</guid>
+      <guid>https://pkms.ca/publication/hcq_jama/</guid>
       <description>&lt;p&gt;Our model-based analysis, published in &lt;em&gt;JAMA Pediatrics&lt;/em&gt;, sought to identify pediatric dosages for two expirimental COVID-19 therapies (hydroxychloroquine and remdesivir). A combination of PBPK modeling and allometry was used to define pediatric dosages for different development stages. Interestingly, our PBPK model analysis indicated that hydroxychloroquine lung concentrations would fall well below those needed to illicit an antiviral effect, raising concerns of its effectiveness for COVID-19 treatment.&lt;/p&gt;
 &lt;br/&gt;
 &lt;div class=&#34;alert alert-note&#34;&gt;
@@ -184,9 +184,9 @@
     
     <item>
       <title>Population pharmacokinetics of olanzapine in children</title>
-      <link>https://a2mahara.github.io/publication/olanzapine_bjcp/</link>
+      <link>https://pkms.ca/publication/olanzapine_bjcp/</link>
       <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>https://a2mahara.github.io/publication/olanzapine_bjcp/</guid>
+      <guid>https://pkms.ca/publication/olanzapine_bjcp/</guid>
       <description>&lt;p&gt;We described the population pharmacokinetics of olanzapine in a cohort of 45 children. Olanzapine is an atypical antipsychotic indicated for treatment schizophrenia and bipolar I disorder but is commonly prescribed off-label to treat delirium and agitation in critical care settings. Our analysis represents the first of its kind to describe the pharmacokinetics of olanzapine in children ranging from infants to adolescents. Olanzapine’s half-life was found to exhibit a U-shaped pattern across the developmental age range. Simulations from our final model were used to propose a preliminary dosing strategy for children. Our developed dosing scheme used weight‐normalized doses for children ≤6 months postnatal age or &amp;lt;15 kg and fixed doses for children ≥15 kg. The manuscript was published in the &lt;em&gt;British Journal of Clinical Pharmacology&lt;/em&gt;.&lt;/p&gt;
 &lt;br/&gt;
 &lt;div class=&#34;alert alert-note&#34;&gt;
@@ -199,9 +199,9 @@
     
     <item>
       <title>Dosing of Continuous Fentanyl Infusions in Obese Children: A Population Pharmacokinetic Analysis</title>
-      <link>https://a2mahara.github.io/publication/fentanyl_jcp/</link>
+      <link>https://pkms.ca/publication/fentanyl_jcp/</link>
       <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
-      <guid>https://a2mahara.github.io/publication/fentanyl_jcp/</guid>
+      <guid>https://pkms.ca/publication/fentanyl_jcp/</guid>
       <description>&lt;p&gt;Differences in fentanyl pharmacokinetics (PK) between obese and nonobese adults have previously been reported; however, the impact of childhood obesity on fentanyl PK is relatively unknown. We developed a population pharmacokinetic (PopPK) model using opportunistically collected samples from a cohort of predominately obese children receiving fentanyl per the standard of care.  Our analysis included 32 participants ranging in age and weight from 2-19 years and 16-164 kg, respectively.&lt;/p&gt;
 &lt;p&gt;Using our developed population pharmacokinetic model, we created a rational strategy for dosing fentanyl via continous intravenous infusion in obese children that maximizes the probability of achieving steady-state plasma concentrations within an analgesic concentration range (1-3 ng/mL). The manuscript was published in &lt;em&gt;The Journal of Clinical Pharmacology&lt;/em&gt;.
 &lt;br/&gt;&lt;/p&gt;
@@ -215,9 +215,9 @@
     
     <item>
       <title>Slides</title>
-      <link>https://a2mahara.github.io/slides/example/</link>
+      <link>https://pkms.ca/slides/example/</link>
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>https://a2mahara.github.io/slides/example/</guid>
+      <guid>https://pkms.ca/slides/example/</guid>
       <description>&lt;h1 id=&#34;create-slides-in-markdown-with-academic&#34;&gt;Create slides in Markdown with Academic&lt;/h1&gt;
 &lt;p&gt;&lt;a href=&#34;https://sourcethemes.com/academic/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Academic&lt;/a&gt; | &lt;a href=&#34;https://sourcethemes.com/academic/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
 &lt;hr&gt;
@@ -344,25 +344,25 @@ Three
     
     <item>
       <title>Join the Team</title>
-      <link>https://a2mahara.github.io/join/</link>
+      <link>https://pkms.ca/join/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://a2mahara.github.io/join/</guid>
+      <guid>https://pkms.ca/join/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Join the Team</title>
-      <link>https://a2mahara.github.io/team/</link>
+      <link>https://pkms.ca/team/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://a2mahara.github.io/team/</guid>
+      <guid>https://pkms.ca/team/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Drug Dosing in Childhood Obesity</title>
-      <link>https://a2mahara.github.io/project/thrasher/</link>
+      <link>https://pkms.ca/project/thrasher/</link>
       <pubDate>Thu, 27 Apr 2017 00:00:00 +0000</pubDate>
-      <guid>https://a2mahara.github.io/project/thrasher/</guid>
+      <guid>https://pkms.ca/project/thrasher/</guid>
       <description>&lt;p&gt;Childhood obesity is a common and causes substantial morbidity. 14 million children in the US are obese and ~20-40% currently receive at least one prescribed drug.  The majority of drugs prescribed to obese children lack dosing information specific to this population, which can result in therapeutic failures or dangerous toxicities. Obesity-related physiologic changes result in important alterations in drug disposition and no single drug-specific property, such as lipophilicity, or body size measure reliably predicts those pharmacokinetic (PK) changes. Consequently, when prescribing drugs to obese children, health care providers are guessing the correct dose.&lt;/p&gt;
 &lt;p&gt;The development of effective dosing strategies for obese children represents an urgent, unmet public health need. This proposal will evaluate advanced PK and statistical modeling techniques that take into account the multitude of factors that affect drug PK to optimize dosing in this population.&lt;/p&gt;
 &lt;br/&gt;
@@ -376,9 +376,9 @@ Three
     
     <item>
       <title>About</title>
-      <link>https://a2mahara.github.io/about/</link>
+      <link>https://pkms.ca/about/</link>
       <pubDate>Thu, 05 May 2016 21:48:51 -0700</pubDate>
-      <guid>https://a2mahara.github.io/about/</guid>
+      <guid>https://pkms.ca/about/</guid>
       <description>&lt;p&gt;This is a &amp;ldquo;hello world&amp;rdquo; example website for the &lt;a href=&#34;https://github.com/rstudio/blogdown&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;blogdown&lt;/strong&gt;&lt;/a&gt; package. The theme was forked from &lt;a href=&#34;https://github.com/jrutheiser/hugo-lithium-theme&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;@jrutheiser/hugo-lithium-theme&lt;/a&gt; and modified by &lt;a href=&#34;https://github.com/yihui/hugo-lithium&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Yihui Xie&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>

@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Authors | PKMS Lab | UBC</title>
-    <link>https://a2mahara.github.io/authors/</link>
-      <atom:link href="https://a2mahara.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://pkms.ca/authors/</link>
+      <atom:link href="https://pkms.ca/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 04 Dec 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://a2mahara.github.io/images/icon_hu254a632e13bbcb0db1c9ac000befa917_11344_512x512_fill_lanczos_center_2.png</url>
+      <url>https://pkms.ca/images/icon_hu254a632e13bbcb0db1c9ac000befa917_11344_512x512_fill_lanczos_center_2.png</url>
       <title>Authors</title>
-      <link>https://a2mahara.github.io/authors/</link>
+      <link>https://pkms.ca/authors/</link>
     </image>
     
   </channel>
