@@ -3,27 +3,17 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://pkms.ca/talk/example/</loc>
-    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://pkms.ca/</loc>
-    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://pkms.ca/talk/</loc>
-    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://pkms.ca/author/anil-maharaj/</loc>
     <lastmod>2020-12-04T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://pkms.ca/authors/</loc>
+    <lastmod>2020-12-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://pkms.ca/</loc>
     <lastmod>2020-12-04T00:00:00+00:00</lastmod>
   </url>
   
@@ -40,16 +30,6 @@
   <url>
     <loc>https://pkms.ca/post/dec3_2020/</loc>
     <lastmod>2020-12-03T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://pkms.ca/events/deepcove2020/</loc>
-    <lastmod>2020-06-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://pkms.ca/events/</loc>
-    <lastmod>2020-06-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -203,16 +183,6 @@
   </url>
   
   <url>
-    <loc>https://pkms.ca/slides/</loc>
-    <lastmod>2019-02-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://pkms.ca/slides/example/</loc>
-    <lastmod>2019-02-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://pkms.ca/join/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
   </url>
@@ -230,11 +200,6 @@
   <url>
     <loc>https://pkms.ca/project/</loc>
     <lastmod>2017-04-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://pkms.ca/about/</loc>
-    <lastmod>2016-05-05T21:48:51-07:00</lastmod>
   </url>
   
   <url>
