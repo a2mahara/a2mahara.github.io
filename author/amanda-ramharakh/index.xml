@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Amanda Ramharakh | PKMS Lab | UBC</title>
+    <link>https://pkms.ca/author/amanda-ramharakh/</link>
+      <atom:link href="https://pkms.ca/author/amanda-ramharakh/index.xml" rel="self" type="application/rss+xml" />
+    <description>Amanda Ramharakh</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://pkms.ca/images/icon_hu254a632e13bbcb0db1c9ac000befa917_11344_512x512_fill_lanczos_center_2.png</url>
+      <title>Amanda Ramharakh</title>
+      <link>https://pkms.ca/author/amanda-ramharakh/</link>
+    </image>
+    
+  </channel>
+</rss>

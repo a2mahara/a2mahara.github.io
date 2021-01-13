@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jinson Erinjeri | PKMS Lab | UBC</title>
+    <link>https://pkms.ca/author/jinson-erinjeri/</link>
+      <atom:link href="https://pkms.ca/author/jinson-erinjeri/index.xml" rel="self" type="application/rss+xml" />
+    <description>Jinson Erinjeri</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://pkms.ca/images/icon_hu254a632e13bbcb0db1c9ac000befa917_11344_512x512_fill_lanczos_center_2.png</url>
+      <title>Jinson Erinjeri</title>
+      <link>https://pkms.ca/author/jinson-erinjeri/</link>
+    </image>
+    
+    <item>
+      <title>Population pharmacokinetics of olanzapine in children</title>
+      <link>https://pkms.ca/publication/olanzapine_bjcp/</link>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>https://pkms.ca/publication/olanzapine_bjcp/</guid>
+      <description>&lt;p&gt;We described the population pharmacokinetics of olanzapine in a cohort of 45 children. Olanzapine is an atypical antipsychotic indicated for treatment schizophrenia and bipolar I disorder but is commonly prescribed off-label to treat delirium and agitation in critical care settings. Our analysis represents the first of its kind to describe the pharmacokinetics of olanzapine in children ranging from infants to adolescents. Olanzapine’s half-life was found to exhibit a U-shaped pattern across the developmental age range. Simulations from our final model were used to propose a preliminary dosing strategy for children. Our developed dosing scheme used weight‐normalized doses for children ≤6 months postnatal age or &amp;lt;15 kg and fixed doses for children ≥15 kg. The manuscript was published in the &lt;em&gt;British Journal of Clinical Pharmacology&lt;/em&gt;.&lt;/p&gt;
+&lt;br/&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Maharaj, A. R., Wu, H., Zimmerman, K. O., Autmizguine, J., Kalra, R., Al-Uzri, A., Sherwin, C. M. T., Goldstein, S. L., Watt, K., Erinjeri, J., Payne, E. H., Cohen-Wolkowiez, M., &amp;amp; Hornik, C. P. (2020). Population pharmacokinetics of olanzapine in children. &lt;em&gt;British Journal of Clinical Pharmacology&lt;/em&gt;. https://doi.org/10.1111/bcp.14414
+  &lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Dosing of Continuous Fentanyl Infusions in Obese Children: A Population Pharmacokinetic Analysis</title>
+      <link>https://pkms.ca/publication/fentanyl_jcp/</link>
+      <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>https://pkms.ca/publication/fentanyl_jcp/</guid>
+      <description>&lt;p&gt;Differences in fentanyl pharmacokinetics (PK) between obese and nonobese adults have previously been reported; however, the impact of childhood obesity on fentanyl PK is relatively unknown. We developed a population pharmacokinetic (PopPK) model using opportunistically collected samples from a cohort of predominately obese children receiving fentanyl per the standard of care.  Our analysis included 32 participants ranging in age and weight from 2-19 years and 16-164 kg, respectively.&lt;/p&gt;
+&lt;p&gt;Using our developed population pharmacokinetic model, we created a rational strategy for dosing fentanyl via continous intravenous infusion in obese children that maximizes the probability of achieving steady-state plasma concentrations within an analgesic concentration range (1-3 ng/mL). The manuscript was published in &lt;em&gt;The Journal of Clinical Pharmacology&lt;/em&gt;.&lt;/p&gt;
+&lt;br/&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Maharaj, A. R., Wu, H., Zimmerman, K. O., Speicher, D. G., Sullivan, J. E., Watt, K., Al‐Uzri, A., Payne, E. H., Erinjeri, J., Lin, S., Harper, B., Melloni, C., &amp;amp; Hornik, C. P. (2019). Dosing of Continuous Fentanyl Infusions in Obese Children: A Population Pharmacokinetic Analysis. &lt;em&gt;The Journal of Clinical Pharmacology&lt;/em&gt;. https://doi.org/10.1002/jcph.1562
+  &lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
