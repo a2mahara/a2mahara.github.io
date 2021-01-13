@@ -1,2 +1,0 @@
-The following was editted to remove the data:
-themes\github.com\wowchemy\wowchemy-hugo-modules\wowchemy\layouts\partials\widgets\accomplishments.html
