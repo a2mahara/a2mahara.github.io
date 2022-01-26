@@ -5,7 +5,7 @@
     <link>https://pkms.ca/</link>
       <atom:link href="https://pkms.ca/index.xml" rel="self" type="application/rss+xml" />
     <description>PKMS Lab | UBC</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 04 Dec 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 15 Jan 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://pkms.ca/images/icon_hu254a632e13bbcb0db1c9ac000befa917_11344_512x512_fill_lanczos_center_2.png</url>
       <title>PKMS Lab | UBC</title>
@@ -13,21 +13,35 @@
     </image>
     
     <item>
+      <title>New publication in collaboration with the International Maternal Pediatric Adolescent AIDS Clinical Trials (IMPAACT) Network</title>
+      <link>https://pkms.ca/post/jan15_2021/</link>
+      <pubDate>Sat, 15 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://pkms.ca/post/jan15_2021/</guid>
+      <description>&lt;p&gt;Our analysis, published in &lt;a href=&#34;https://www.frontiersin.org/articles/10.3389/fped.2021.721059/full&#34; target=&#34;_blank&#34;&gt;&lt;i&gt;Frontiers in Pediatrics&lt;/i&gt;&lt;/a&gt;, examined how plasma concentrations of albumin and alpha-1-acid glycoprotein change in pregnant and postpartum individuals living HIV. Computational functions developed from this work are published and can prospectively serve improve pharmacokinetic models in these populations.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Characterization of Plasma Protein Alterations in Pregnant and Postpartum Individuals Living With HIV to Support Physiologically-Based Pharmacokinetic Model Development</title>
+      <link>https://pkms.ca/publication/protein_impaact/</link>
+      <pubDate>Tue, 05 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://pkms.ca/publication/protein_impaact/</guid>
+      <description>&lt;p&gt;Our analysis, published in &lt;em&gt;Frontiers in Pediatrics&lt;/em&gt;, developed computational functions to describe how two plasma proteins (albumin and alpha-1-acid glycoprotein) change over the course of pregnancy and the postpartum period. As plasma-protein drug binding represents critical modifier of drug PK, an understanding how these proteins change in different populations is critical for the development of life-stage specific PBPK models. Our developed computational functions were created using open-source software (i.e., R) and can readily be integrated into models developed by other researchers.&lt;/p&gt;
+&lt;br/&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Zhao S, Gockenbach M, Grimstein M, Sachs HC, Mirochnick M, Struble K, Belew Y, Wang J, Capparelli EV, Best BM, Johnson T, Momper JD, Maharaj AR. Characterization of Plasma Protein Alterations in Pregnant and Postpartum Individuals Living With HIV to Support Physiologically-Based Pharmacokinetic Model Development. Frontiers in pediatrics 2021;9:721059.
+  &lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
       <title>US FDA revokes emergency use authorization of hydroxychloroquine for treatment of COVID-19</title>
       <link>https://pkms.ca/post/dec4_2020/</link>
       <pubDate>Fri, 04 Dec 2020 00:00:00 +0000</pubDate>
       <guid>https://pkms.ca/post/dec4_2020/</guid>
       <description>&lt;p&gt;The results of our study, published in &lt;a href=&#34;https://jamanetwork.com/journals/jamapediatrics/fullarticle/2767020&#34; target=&#34;_blank&#34;&gt;&lt;i&gt;JAMA Pediatrics&lt;/i&gt;&lt;/a&gt;, was used to support the US FDA&amp;rsquo;s decision to revoke emergency use authorization of hydroxychloroquine for treatment of COVID-19. Our model-based analysis demonstrated that hydroxychloroquine concentrations in lung tissue may be too low to elicit an antiviral effect - raising concerns about use of hydroxychloroquine for treatment of COVID-19. This work epitomizes the impact that pharmacokinetic modeling and simulation can have on clinical care. The FDA communication can be found &lt;a href=&#34;https://www.fda.gov/media/138945/download&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>New, New, New</title>
-      <link>https://pkms.ca/post/dec3_2020/</link>
-      <pubDate>Thu, 03 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>https://pkms.ca/post/dec3_2020/</guid>
-      <description>&lt;p&gt;Lots of new beginnings this year: relocated to a new city - the strikingly beautiful Vancouver, British Columbia; appointed as a new Assistant Professor at The University of British Columbia&amp;rsquo;s Faculty of Pharmaceutical Sciences; launched a new laboratory website; and now, I am looking to recruit inaugural members to the PKMS laboratory.&lt;/p&gt;
-&lt;p&gt;If you are creative, enjoy biology, pharmacology and math, and are enthusiastic about conducting research that can impact clinical care, then consider submitting an application. As a member of the newly formed PKMS lab, you will play a critical role in shaping this laboratory’s research and culture. Click &lt;a href=&#34;../../join/&#34;&gt;here&lt;/a&gt; to find more information on currently available positions.&lt;/p&gt;
 </description>
     </item>
     

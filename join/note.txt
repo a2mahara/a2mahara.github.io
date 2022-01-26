@@ -1,5 +1,2 @@
-This is a widget page (a page similar to the home page but without the top menu)...you need the index.md..then you can import widgets from the home folder and edit them
-
-
 The following was editted to remove the data:
 themes\github.com\wowchemy\wowchemy-hugo-modules\wowchemy\layouts\partials\widgets\accomplishments.html

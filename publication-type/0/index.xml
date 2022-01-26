@@ -5,12 +5,27 @@
     <link>https://pkms.ca/publication-type/0/</link>
       <atom:link href="https://pkms.ca/publication-type/0/index.xml" rel="self" type="application/rss+xml" />
     <description>0</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 04 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 05 Oct 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://pkms.ca/images/icon_hu254a632e13bbcb0db1c9ac000befa917_11344_512x512_fill_lanczos_center_2.png</url>
       <title>0</title>
       <link>https://pkms.ca/publication-type/0/</link>
     </image>
+    
+    <item>
+      <title>Characterization of Plasma Protein Alterations in Pregnant and Postpartum Individuals Living With HIV to Support Physiologically-Based Pharmacokinetic Model Development</title>
+      <link>https://pkms.ca/publication/protein_impaact/</link>
+      <pubDate>Tue, 05 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://pkms.ca/publication/protein_impaact/</guid>
+      <description>&lt;p&gt;Our analysis, published in &lt;em&gt;Frontiers in Pediatrics&lt;/em&gt;, developed computational functions to describe how two plasma proteins (albumin and alpha-1-acid glycoprotein) change over the course of pregnancy and the postpartum period. As plasma-protein drug binding represents critical modifier of drug PK, an understanding how these proteins change in different populations is critical for the development of life-stage specific PBPK models. Our developed computational functions were created using open-source software (i.e., R) and can readily be integrated into models developed by other researchers.&lt;/p&gt;
+&lt;br/&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Zhao S, Gockenbach M, Grimstein M, Sachs HC, Mirochnick M, Struble K, Belew Y, Wang J, Capparelli EV, Best BM, Johnson T, Momper JD, Maharaj AR. Characterization of Plasma Protein Alterations in Pregnant and Postpartum Individuals Living With HIV to Support Physiologically-Based Pharmacokinetic Model Development. Frontiers in pediatrics 2021;9:721059.
+  &lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
     
     <item>
       <title>Simulated Assessment of Pharmacokinetically Guided Dosing for Investigational Treatments of Pediatric Patients With Coronavirus Disease 2019</title>
